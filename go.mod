@@ -7,13 +7,13 @@ require (
 	github.com/Shopify/sarama v1.38.1
 	github.com/arsmn/fiber-swagger/v2 v2.31.1
 	github.com/ggwhite/go-masker v1.0.9
-	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/gofiber/adaptor/v2 v2.1.32
 	github.com/gofiber/fiber/v2 v2.42.0
 	github.com/google/uuid v1.3.0
 	github.com/jackc/pgx/v5 v5.2.0
 	github.com/json-iterator/go v1.1.12
 	github.com/prometheus/client_golang v0.9.3
+	github.com/redis/go-redis/v9 v9.0.2
 	github.com/stretchr/testify v1.8.1
 	github.com/swaggo/swag v1.8.10
 	github.com/valyala/fasthttp v1.44.0
@@ -58,8 +58,6 @@ require (
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421 // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
-	github.com/onsi/ginkgo v1.16.5 // indirect
-	github.com/onsi/gomega v1.26.0 // indirect
 	github.com/philhofer/fwd v1.1.2 // indirect
 	github.com/pierrec/lz4/v4 v4.1.17 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
@@ -67,7 +65,6 @@ require (
 	github.com/prometheus/common v0.4.1 // indirect
 	github.com/prometheus/procfs v0.9.0 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 // indirect
-	github.com/redis/go-redis/v9 v9.0.2 // indirect
 	github.com/rivo/uniseg v0.4.3 // indirect
 	github.com/rogpeppe/go-internal v1.9.0 // indirect
 	github.com/savsgio/dictpool v0.0.0-20221023140959-7bf2e61cea94 // indirect
